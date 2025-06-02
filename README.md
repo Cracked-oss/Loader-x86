@@ -38,7 +38,7 @@ git clone https://github.com/Cracked-oss/Simple-Loader-x86.git
 
 1. Build the project following the steps above
 2. Run the compiled executable
-3. Follow the on-screen instructions to load your desired DLL
+3. Follow the on-screen instructions to load your desired 
 
 ## ⚠️ Important Notes
 
