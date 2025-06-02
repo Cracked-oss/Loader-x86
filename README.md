@@ -66,7 +66,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## ⚡ Performance
 
-The loader is designed to be lightweight and efficient, with minimal overhead during DLL loading operations.
+The loader is designed to be lightweight and efficient, with minimal overhead during loading operations.
 
 ## 🔐 Security Considerations
 
